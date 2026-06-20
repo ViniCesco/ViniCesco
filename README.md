@@ -142,15 +142,15 @@ O Holy Fruit é um projeto conceitual de experiência phygital (físico + digita
 
 A experiência é guiada por 9 princípios de desenvolvimento pessoal:
 
-*❤️ Amor
-*😊 Alegria
-*🕊️ Paz
-*⏳ Paciência
-*🫂 Amabilidade
-*🤍 Bondade
-*🔒 Fidelidade
-*🌻 Mansidão
-*🎮 Autocontrole
+* ❤️ Amor
+* 😊 Alegria
+* 🕊️ Paz
+* ⏳ Paciência
+* 🫂 Amabilidade
+* 🤍 Bondade
+* 🔒 Fidelidade
+* 🌻 Mansidão
+* 🎮 Autocontrole
 
 **Experiência phygital:**
 
