@@ -134,27 +134,25 @@ O Holy Fruit é um projeto conceitual de experiência phygital (físico + digita
 <a href="https://github.com/ViniCesco/holy-fruit" target="_blank"><img src="https://img.shields.io/badge/Código_Fonte-clique%20aqui-black?style=for-the-badge&logo=github" alt="Código Fonte"/></a>
 </p>
 
-**Propósito:**
+**Slogan:**
 
 ✨ “Abra, beba e acredite.”
-
-Transformar um ato cotidiano em uma experiência significativa, incentivando o usuário a desacelerar e se reconectar consigo mesmo.
 
 **Jornada de experiência:**
 
 A experiência é guiada por 9 princípios de desenvolvimento pessoal:
 
-🌿 Amor
-😊 Alegria
-🕊️ Paz
-⏳ Paciência
-🤝 Amabilidade
-💛 Bondade
-💪 Fidelidade
-🌸 Mansidão
-⚖️ Autocontrole
+*❤️ Amor
+*😊 Alegria
+*🕊️ Paz
+*⏳ Paciência
+*🫂 Amabilidade
+*🤍 Bondade
+*🔒 Fidelidade
+*🌻 Mansidão
+*🎮 Autocontrole
 
-**📲 Experiência phygital (QR Code):**
+**Experiência phygital:**
 
 O projeto integra uma experiência física e digital através de um QR Code presente na embalagem do produto.
 
@@ -164,12 +162,12 @@ Essa conexão transforma o produto físico em uma porta de entrada para uma expe
 
 **Tecnologias:**
 
-✨ React, Vite, TypeScript, TailwindCSS, Git, GitHub e Vercel.
+🖥️ React, Vite, TypeScript, TailwindCSS, Git, GitHub e Vercel.
 
 **Destaques:**
 
-🚀 Projeto focado em experiência emocional, UX e narrativa digital, explorando o conceito de phygital e bem-estar através da tecnologia.
+🔥 Projeto focado em experiência emocional, UX e narrativa digital, explorando o conceito de phygital e bem-estar através da tecnologia.
 
-🔗 Projeto de evolução como estudo de experiência e design.
+✅ Projeto de evolução como estudo de experiência e design.
 
 </details>
