@@ -113,3 +113,63 @@ O Forest Focus é uma plataforma de produtividade gamificada que integra tarefas
 🔗 Em constante desenvolvimento com novas funcionalidades e melhorias.
 
 </details>
+
+## 📦 Outros Projetos
+
+<details> 
+  <summary>🍋 Holy Fruit</summary> 
+  
+  <br/> 
+  <br/>
+
+O Holy Fruit é um projeto conceitual de experiência phygital (físico + digital) centrado em uma linha de sucos naturais, que explora como tecnologia, design e bem-estar podem transformar o consumo de um suco em um momento de reflexão e presença.
+
+**🌐 Acesso ao projeto:**
+
+<p align="left">
+  <a href="https://holy-fruit.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Acessar_Site-clique%20aqui-green?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Acessar Projeto" /></a>
+</p>
+
+<a href="https://github.com/ViniCesco/holy-fruit" target="_blank"><img src="https://img.shields.io/badge/Código_Fonte-clique%20aqui-black?style=for-the-badge&logo=github" alt="Código Fonte"/></a>
+</p>
+
+**Propósito:**
+
+✨ “Abra, beba e acredite.”
+
+Transformar um ato cotidiano em uma experiência significativa, incentivando o usuário a desacelerar e se reconectar consigo mesmo.
+
+**Jornada de experiência:**
+
+A experiência é guiada por 9 princípios de desenvolvimento pessoal:
+
+🌿 Amor
+😊 Alegria
+🕊️ Paz
+⏳ Paciência
+🤝 Amabilidade
+💛 Bondade
+💪 Fidelidade
+🌸 Mansidão
+⚖️ Autocontrole
+
+**📲 Experiência phygital (QR Code):**
+
+O projeto integra uma experiência física e digital através de um QR Code presente na embalagem do produto.
+
+Ao escanear o código, o usuário é direcionado para uma aplicação web interativa, onde continua a jornada com conteúdos reflexivos, mensagens inspiracionais e uma experiência guiada baseada nos princípios do projeto.
+
+Essa conexão transforma o produto físico em uma porta de entrada para uma experiência digital contínua.
+
+**Tecnologias:**
+
+✨ React, Vite, TypeScript, TailwindCSS, Git, GitHub e Vercel.
+
+**Destaques:**
+
+🚀 Projeto focado em experiência emocional, UX e narrativa digital, explorando o conceito de phygital e bem-estar através da tecnologia.
+
+🔗 Projeto de evolução como estudo de experiência e design.
+
+</details>
