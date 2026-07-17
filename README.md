@@ -88,7 +88,7 @@ O Forest Focus é uma plataforma de produtividade gamificada que integra tarefas
 **🌐 Acesso ao projeto:**
 
 <p align="left">
-  <a href="https://vinicesco.github.io/Forest-Focus/" target="_blank"><img src="https://img.shields.io/badge/Acessar_Site-clique%20aqui-green?style=for-the-badge&logo=github" alt="Acessar Projeto" /></a>
+  <a href="https://vinicesco.github.io/ForestFocus/" target="_blank"><img src="https://img.shields.io/badge/Acessar_Site-clique%20aqui-green?style=for-the-badge&logo=github" alt="Acessar Projeto" /></a>
   
   <a href="https://github.com/ViniCesco/Forest-Focus" target="_blank"><img src="https://img.shields.io/badge/Código_Fonte-clique%20aqui-black?style=for-the-badge&logo=github" alt="Código Fonte"/></a>
 </p>
