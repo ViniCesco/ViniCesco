@@ -171,3 +171,39 @@ Essa conexão transforma o produto físico em uma porta de entrada para uma expe
 ✅ Projeto de evolução como estudo de experiência e design.
 
 </details>
+
+<details> 
+  <summary>🛸 Cow Abduction</summary> 
+  
+  <br/> 
+  <br/>
+
+O Cow Abduction é um jogo estilo *Snake* com tema de abdução alienígena: controle um disco voador para abduzir vacas e crescer, evitando colisões com as bordas do mapa e com o próprio rastro, em uma dificuldade que aumenta progressivamente e de forma infinita.
+
+**🌐 Acesso ao projeto:**
+
+<p align="left">
+  <a href="https://vinicesco.github.io/CowAbduction/" target="_blank"><img src="https://img.shields.io/badge/Acessar_Site-clique%20aqui-green?style=for-the-badge&logo=github" alt="Acessar Projeto" /></a>
+  
+  <a href="https://github.com/ViniCesco/CowAbduction" target="_blank"><img src="https://img.shields.io/badge/Código_Fonte-clique%20aqui-black?style=for-the-badge&logo=github" alt="Código Fonte"/></a>
+</p>
+
+**Funcionalidades:**
+
+* 🎮 Controles duplos: teclado (setas/WASD) no desktop e D-pad + swipe no mobile
+* ⚡ Dificuldade progressiva e infinita, acelerando a cada 5 vacas abduzidas
+* 🏆 Sistema de pontuação com recorde salvo localmente
+* 📱 Totalmente responsivo, com controles de toque exibidos automaticamente apenas em dispositivos com tela sensível ao toque
+* 📲 Instalável como aplicativo (PWA), com suporte a jogo offline via Service Worker
+
+**Tecnologias:**
+
+✨ HTML5 (Canvas API), CSS3, JavaScript (Vanilla), Web App Manifest, Service Worker, Git e GitHub.
+
+**Destaques:**
+
+🚀 Projeto focado em lógica de jogo, manipulação de Canvas e boas práticas de responsividade e acessibilidade para diferentes dispositivos.
+
+📦 Estudo prático de PWA: cache offline, ícones adaptativos e instalação via navegador.
+
+</details>
